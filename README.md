@@ -10,6 +10,7 @@ possíveis ataques de força bruta.
 3. Extrai o IP de origem de cada falha
 4. Conta as falhas por IP usando um dicionário
 5. Gera um alerta quando um IP chega a 5 falhas ou mais
+6. Marca como **crítico** o IP que errou a senha várias vezes e também aparece em um login bem-sucedido (`Accepted password`)
 
 ## Como rodar
 
